@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Carrus AB</title>
-    <meta name="description" content="Carrus AB">
-    <meta name="author" content="OAS">
+    <title>Simple html template</title>
+    <meta name="description" content="Simple html template">
+    <meta name="author" content="Anton">
 
     <script src="js/jquery-3.1.1.min.js"></script>
     <link rel="stylesheet" href="css/styles.css?v=1.0">
